@@ -1,8 +1,8 @@
 #Ancestral Niche Separation and Evolutionary Rate Differentiation Between Sister Marine Flavobacteria Lineages#
 ##Supporting dataset##
-1.	Manually compiled DNA repair gene database
-2.	Scripts for Badirate (Librado et al., 2011) downstream analysis (http://www.ub.edu/softevol/badirate/; https://github.com/fgvieira/badirate)
-3.  Scripts for mutation rate calculation using the software GATK (https://github.com/broadinstitute/gatk/releases) based on the guideline of the GATK Best Practices (Van der Auwera et al. 2013).
+1. Manually compiled DNA repair gene database
+2. Scripts for Badirate (Librado et al., 2011) downstream analysis (http://www.ub.edu/softevol/badirate/; https://github.com/fgvieira/badirate)
+3. Scripts for mutation rate calculation using the software GATK (https://github.com/broadinstitute/gatk/releases) based on the guideline of the GATK Best Practices (Van der Auwera et al. 2013).
 
 Reference
 Librado P, Vieira F G, Rozas J. BadiRate: estimating family turnover rates by likelihood-based methods[J]. Bioinformatics, 2012, 28(2): 279-281.
